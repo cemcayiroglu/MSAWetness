@@ -5,6 +5,7 @@ A Java program that sorts all metropolitan statistical areas (MSAs) in the Unite
 ## Prerequisite
 
 Java(TM) SE Runtime Environment 1.8.0
+
 apache-maven-3.0.5
 
 ## Installation
